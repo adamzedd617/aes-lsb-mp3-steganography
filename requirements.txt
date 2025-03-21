@@ -1,0 +1,6 @@
+cryptography
+numpy
+soundfile
+pydub
+python-Levenshtein
+tqdm
