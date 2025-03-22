@@ -1,0 +1,2 @@
+this version:
+- fixed bugs issue on files input
